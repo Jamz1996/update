@@ -1,0 +1,16 @@
+{
+"PulseSensor":
+    {
+        "LatestVerison":"V1.12",
+        "Url":"http://127.0.0.1:8080/examples/app/Pipite",
+        "UpdateTime":"2019-11-13",
+            "ReleaseNote":"\n1.啥也霉更新\n"
+    },
+"RGBContrl":
+    {
+        "LatestVerison":"V1.0",
+        "Url":"http://127.0.0.1:8080/examples/app/Pipite",
+        "UpdateTime":"2019-11-13",
+            "ReleaseNote":"版本说明"
+    }
+}
